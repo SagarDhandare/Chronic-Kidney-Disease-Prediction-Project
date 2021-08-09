@@ -4,18 +4,12 @@
 #### If you want to view the deployed model, click on the 
 #### following link: 👇
 
-
 https://kidney-disease.herokuapp.com/
 
 
 ## Demo
 
 <img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized.gif">
-
-
-<img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized%20(1).gif">
-
-
 
 ## Tech Stack
 
@@ -85,7 +79,6 @@ Push code to Master Branch
 ## Related
 
 Here are some related projects
-
 
 
 [Liver Disease](https://github.com/SagarDhandare/Liver-Disease-Prediction-Project)
