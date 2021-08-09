@@ -8,6 +8,8 @@ This project used to predict the chronic kidney disease.
 
 Insert gif or link to demo
 <iframe src="https://giphy.com/embed/rbbBNhs4LBJDL1KG6g" width="480" height="238" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rbbBNhs4LBJDL1KG6g">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/rbbBNhs4LBJDL1KG6g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rbbBNhs4LBJDL1KG6g">via GIPHY</a></p>
 ## Tech Stack
 
 Python, Machine Learning, Flask, HTML, Pycharm, Heroku
