@@ -8,7 +8,8 @@
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized.gif">
+<img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/gif.gif">
+<img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/gif2.gif">
 
 ## Tech Stack
 
