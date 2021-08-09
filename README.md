@@ -7,10 +7,7 @@ This project used to predict the chronic kidney disease.
 ## Demo
 
 Insert gif or link to demo
-https://media.giphy.com/media/rbbBNhs4LBJDL1KG6g/giphy.gif
-
-  https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized.gif
-  https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized%20(1).gif
+<iframe src="https://giphy.com/embed/rbbBNhs4LBJDL1KG6g" width="480" height="238" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rbbBNhs4LBJDL1KG6g">via GIPHY</a></p>
 ## Tech Stack
 
 Python, Machine Learning, Flask, HTML, Pycharm, Heroku
