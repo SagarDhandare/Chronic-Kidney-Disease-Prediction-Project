@@ -4,8 +4,9 @@
 #### If you want to view the deployed model, click on the 
 #### following link: 👇
 
-https://kidney-disease.herokuapp.com/
+• https://kidney-disease.herokuapp.com/
 
+Please do ⭐ the repository, if you like this.😊
 
 ## Demo
 
