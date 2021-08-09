@@ -1,7 +1,10 @@
 
 # Chronic Kidney Disease Prediction Project ❤
 
-This project used to predict the chronic kidney disease.
+### If you want to view the deployed model, click on the following link: 👇
+
+
+https://kidney-disease.herokuapp.com/
 
 
 ## Demo
