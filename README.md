@@ -6,6 +6,8 @@ This project used to predict the chronic kidney disease.
 
 ## Demo
 
+<img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized.gif">
+
 ![Animated GIF-downsized](https://user-images.githubusercontent.com/67782195/128661423-a8578c3b-742c-461b-81da-8eb36bef9ef7.gif)
 
 
