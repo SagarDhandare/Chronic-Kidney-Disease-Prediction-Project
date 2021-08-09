@@ -7,6 +7,7 @@ This project used to predict the chronic kidney disease.
 ## Demo
 
 Insert gif or link to demo
+https://media.giphy.com/media/rbbBNhs4LBJDL1KG6g/giphy.gif
 
   https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized.gif
   https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized%20(1).gif
