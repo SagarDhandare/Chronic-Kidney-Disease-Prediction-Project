@@ -6,13 +6,10 @@ This project used to predict the chronic kidney disease.
 
 ## Demo
 
-Insert gif or link to demo
-https://media.giphy.com/media/rbbBNhs4LBJDL1KG6g/giphy.gif
+![Animated GIF-downsized](https://user-images.githubusercontent.com/67782195/128661423-a8578c3b-742c-461b-81da-8eb36bef9ef7.gif)
+![Animated GIF-downsized (1)](https://user-images.githubusercontent.com/67782195/128661431-df37f910-08f9-451f-ab01-4e4bd67c5f3c.gif)
 
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/rbbBNhs4LBJDL1KG6g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rbbBNhs4LBJDL1KG6g">via GIPHY</a></p>
-
-<iframe src="https://giphy.com/embed/rbbBNhs4LBJDL1KG6g" width="480" height="238" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rbbBNhs4LBJDL1KG6g">via GIPHY</a></p>
-
+m
 
 ## Tech Stack
 
