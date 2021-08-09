@@ -8,10 +8,8 @@ This project used to predict the chronic kidney disease.
 
 <img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized.gif">
 
-![Animated GIF-downsized](https://user-images.githubusercontent.com/67782195/128661423-a8578c3b-742c-461b-81da-8eb36bef9ef7.gif)
 
-
-![Animated GIF-downsized (1)](https://user-images.githubusercontent.com/67782195/128661431-df37f910-08f9-451f-ab01-4e4bd67c5f3c.gif)
+<img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/Animated%20GIF-downsized%20(1).gif">
 
 
 
