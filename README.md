@@ -88,6 +88,8 @@ Here are some related projects
 [Diabetes Disease](https://github.com/SagarDhandare/Diabetes-Disease-Project)
 
 [Stroke Prediction](https://github.com/SagarDhandare/Stroke-Prediction-Project)
+
+[Breast Cancer Disease](https://github.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project)
   
 ## Feedback
 
