@@ -11,9 +11,28 @@
 <img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/gif.gif">
 <img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/gif2.gif">
 
+
+## Dataset
+
+[Chronic Kidney Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease)
+
+## Dataset Description
+
+[Download Description](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease#)
+
+
 ## Tech Stack
 
-Python, Machine Learning, Flask, HTML, Pycharm, Heroku
+- Python
+- Machine Learning
+- Pandas
+- Numpy
+- Scikit-learn
+- Flask
+- HTML
+- CSS
+- Pycharm
+- Heroku
 
   
 ## Running Tests
@@ -95,4 +114,7 @@ Here are some related projects
 
 If you have any feedback, please reach out to me at https://www.linkedin.com/in/sagardhandare/
 
-Please do ⭐ the repository, if you like this.😊
+Please do ⭐ the repository, if you like this 😊
+
+
+Thank you ❤
